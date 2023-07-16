@@ -24,7 +24,7 @@ multidel();
     }
 }
 
-//Class Maths
+//Class Maths with 4 methods
 public class maths
 {
     public int Add(int x, int y)
