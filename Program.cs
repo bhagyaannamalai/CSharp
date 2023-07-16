@@ -23,6 +23,8 @@ multidel();
 
     }
 }
+
+//Class Maths
 public class maths
 {
     public int Add(int x, int y)
