@@ -1,0 +1,15 @@
+D:\Practices\videos\C#\C#interview\console\delegates\bin\Debug\net7.0\delegates.exe
+D:\Practices\videos\C#\C#interview\console\delegates\bin\Debug\net7.0\delegates.deps.json
+D:\Practices\videos\C#\C#interview\console\delegates\bin\Debug\net7.0\delegates.runtimeconfig.json
+D:\Practices\videos\C#\C#interview\console\delegates\bin\Debug\net7.0\delegates.dll
+D:\Practices\videos\C#\C#interview\console\delegates\bin\Debug\net7.0\delegates.pdb
+D:\Practices\videos\C#\C#interview\console\delegates\obj\Debug\net7.0\delegates.csproj.AssemblyReference.cache
+D:\Practices\videos\C#\C#interview\console\delegates\obj\Debug\net7.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\videos\C#\C#interview\console\delegates\obj\Debug\net7.0\delegates.AssemblyInfoInputs.cache
+D:\Practices\videos\C#\C#interview\console\delegates\obj\Debug\net7.0\delegates.AssemblyInfo.cs
+D:\Practices\videos\C#\C#interview\console\delegates\obj\Debug\net7.0\delegates.csproj.CoreCompileInputs.cache
+D:\Practices\videos\C#\C#interview\console\delegates\obj\Debug\net7.0\delegates.dll
+D:\Practices\videos\C#\C#interview\console\delegates\obj\Debug\net7.0\refint\delegates.dll
+D:\Practices\videos\C#\C#interview\console\delegates\obj\Debug\net7.0\delegates.pdb
+D:\Practices\videos\C#\C#interview\console\delegates\obj\Debug\net7.0\delegates.genruntimeconfig.cache
+D:\Practices\videos\C#\C#interview\console\delegates\obj\Debug\net7.0\ref\delegates.dll
