@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Delegates and multicast delegate
 public delegate int calculation(int x,int y);
 //multicast delegate
 public delegate void myDelegate();
